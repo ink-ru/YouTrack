@@ -1,4 +1,14 @@
 .yt-agile-card__summary > span {
-  font-size: 1rem;
+  font-size: 0.8rem;
   font-weight: 500;
+}
+
+body .yt-board-wrapper .yt-agile-card .yt-agile-card__summary > .yt-agile-card__idWrapper {
+    font-weight: bold;
+    background-color: #fff;
+    color: black!important;
+    /* text-decoration-color: black;
+    font-size-adjust: 0.55;
+    font-family: 'Courier New', monospace;
+    */
 }
